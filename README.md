@@ -27,18 +27,3 @@ Once the project is set up and running, users can perform the following actions:
 3. **Perform DML Operations**: Users can insert, delete, or modify data in the database.
 4. **Logout**: Users can safely log out of the system after completing their tasks.
 
-## Contributing
-
-Contributions to improve the project are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Special thanks to [NetBeans](https://netbeans.org/) for providing a robust Java IDE.
-- Thanks to the MySQL team for developing an excellent relational database management system.
-- Appreciation to all contributors who help in enhancing and improving this project.
-
----
